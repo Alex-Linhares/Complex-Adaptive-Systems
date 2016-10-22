@@ -49,7 +49,9 @@ Einstein's 4th dimension.
 
 The most important scientific law.
 
-	"The law that entropy increases holds the supreme position among the laws of nature.  If your theory is found to be against the 2nd law of thermodynamics I can give you no hope; there is nothing for it but to collapse in deepest humiliation.  
+	"The law that entropy increases holds the supreme position among the laws of nature.  
+	If your theory is found to be against the 2nd law of thermodynamics I can give you no hope; 
+	there is nothing for it but to collapse in deepest humiliation.  
 
 --Sir Arthur Eddington, The nature of the physical world.
 

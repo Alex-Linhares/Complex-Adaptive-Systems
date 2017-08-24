@@ -4,12 +4,14 @@ Linhares Complex Adaptive Systems Course
 
 OUTLINE
 
-Objective: 
+Objective:
 
 
 Aluna doutorado:  "Qual é o papel do administrador?"
 
-Jogo de futebol: paralelismo maciço, cada variável influencia todas as outras, e a história de cada variável influencia o sistema 
+...the moment in History
+
+Jogo de futebol: paralelismo maciço, cada variável influencia todas as outras, e a história de cada variável influencia o sistema
 
 
 =======================================
@@ -20,7 +22,7 @@ Class 1: marblecake, also the game
 
 http://www.rennard.org/alife/english/antsgb.html
 
-Ant trails: 
+Ant trails:
 	Where is the theory of process?
 
 	Are there phase traditions?  When and where?
@@ -36,10 +38,23 @@ Ant trails:
 	What are the qualitative behaviors at each hierarchical level?
 
 
+2. Metacat
+
+Priming is top-down pressure driven from bottom-up exploration
 
 
-Networks → Cities, Countries, Economy, Corporations, the Brain, Biology, etc.
 
+3. Nobody stops for a minute to ponder the enormity of the bullshit we're surrounded by
+
+Example:  Price in economics, Inflation in economics
+
+Example: Rankings
+
+Example (for another class): Conferences about "the reasons of poverty"
+
+Show RankingsWatch stuff.  
+
+4. marblecake, also the game
 
 
 =======================================
@@ -50,16 +65,16 @@ Einstein's 4th dimension.
 The most important scientific law.
 
 	"The law that entropy increases holds the supreme position among the laws of nature.  
-	If your theory is found to be against the 2nd law of thermodynamics I can give you no hope; 
+	If your theory is found to be against the 2nd law of thermodynamics I can give you no hope;
 	there is nothing for it but to collapse in deepest humiliation.  
 
 --Sir Arthur Eddington, The nature of the physical world.
 
-	All states of the system are equally probable.  Only the lowest energy states in a cold system. 
+	All states of the system are equally probable.  Only the lowest energy states in a cold system.
 
 	Boltzmann's equation:  S = k log (W)
 
-
+Networks → Cities, Countries, Economy, Corporations, the Brain, Biology, etc.
 
 
 
@@ -100,7 +115,7 @@ Do not mistake the bus that crashed the bridge with the fragility of the bridge.
 Send "The black swan of Cairo" & "Here comes everybody" p/ todos.  
 
 
-"networks & spreading of diseases". 
+"networks & spreading of diseases".
 Make keynote presentation
 https://www.youtube.com/watch?v=L-dPxGLesE4
 
@@ -117,10 +132,10 @@ http://demonocracy.info/infographics/usa/derivatives/bank_exposure.html
 
 Group work:
 Set up the groups
-Task a (30 mins):  How can we discover a spreading of diseases before they strike the population? 
+Task a (30 mins):  How can we discover a spreading of diseases before they strike the population?
 Task a (15 mins):  Here is some new information...  How can you use it?
 Present the two papers.
-Find a Ranking 
+Find a Ranking
 Get the data
 Organize presentations of "Here comes everybody"
 
@@ -152,21 +167,21 @@ http://epa.gov/radnet/radnet-data/erd.html
 
 	porcupine creek blixseth-->google images; 2 bentleys; maseratis, 150-feet yacht, 2 gulfstream V, castles in France
 
-	Warren Buffett's attack on gold. 
+	Warren Buffett's attack on gold.
 
 “[Gold] gets dug out of the ground in Africa, or someplace. Then we melt it down, dig another hole, bury it again and pay people to stand around guarding it. It has no utility. Anyone watching from Mars would be scratching their head.”
 
-	Energy + Negentropy 
+	Energy + Negentropy
 
 	(Food calories, Human work, Electricity, Oil, etc.)
 
 	(Ready to use resources, computer programs, new forms of organization like the assembly line, ideas, theorems, etc.)
 
 	Zimbabwe money vs gold.
-	
+
 	Low-entropy states are weird, unsustainable, and scary
 
-	"I will stay in London until one year BEFORE the war, then I'll move to America". 
+	"I will stay in London until one year BEFORE the war, then I'll move to America".
 
 	& conflict--> http://www.youtube.com/watch?v=snGYMut3_xU&feature=youtu.be
 
@@ -179,10 +194,10 @@ http://epa.gov/radnet/radnet-data/erd.html
 	http://demonocracy.info/infographics/usa/derivatives/bank_exposure.html
 
 
-	There was a recession in the US but now a recovery is underway (press) x it's the illusion of printing money 
+	There was a recession in the US but now a recovery is underway (press) x it's the illusion of printing money
 	http://1.bp.blogspot.com/-rK0bjcI-pJ8/T3XNmUOB3fI/AAAAAAAAVLk/LGJDUrmnVEU/s640/MI-fed-stimulus-program-ending.gif
 
-	Everybody thinks they have been robbed (Occupy, Greeks, Spainiards, Irish, etc).  They have been promised a bicycle by daddy, but daddy was lying. 
+	Everybody thinks they have been robbed (Occupy, Greeks, Spainiards, Irish, etc).  They have been promised a bicycle by daddy, but daddy was lying.
 
 
 
@@ -191,7 +206,7 @@ http://epa.gov/radnet/radnet-data/erd.html
 
 
 
-	
+
 
 
 For each paper, the Eliza effect:
@@ -229,14 +244,14 @@ When one habitat contracts, another habitat expands.
 
 What is probably expanding?  
 
-1. Super-Open 
+1. Super-Open
 
 Wikipedia (--> github wikipedia?); Open-Access Science, Open-Source code, Blogs, etc.
 →Start an open scientific journal?  
 
 2. Super-Closed, together with Super-Open.  
 
-Bitcoin, Litecoin, Brogliato's app, cryptocat, etc. 
+Bitcoin, Litecoin, Brogliato's app, cryptocat, etc.
 
 3. Capitalism (voluntary) sharing (& spare capacities)
 
@@ -301,7 +316,7 @@ Do you think it's feasible to pull off a military strategy and develop the thing
 
 4. Decentralization
 
-Git, (github wikipedia?), bitcoin, p2p file-sharing, Git + torrent? 
+Git, (github wikipedia?), bitcoin, p2p file-sharing, Git + torrent?
 
 5. Synthesis of Intelligence   
 
@@ -357,14 +372,14 @@ Computational complexity of rankings
 
 Berlin wall; Apartheid; NOT THIS
 
-Rocinha; Germans versus Turkey; 
+Rocinha; Germans versus Turkey;
 
 
 
 Simulation at:
 http://ccl.northwestern.edu/netlogo/models/Segregation
 
-Schelling's segregation model: 
+Schelling's segregation model:
 	Where is the theory of process?
 
 	Are there phase traditions?  When and where?
@@ -396,7 +411,7 @@ Get Explanation
 Use model from http://www.rennard.org/alife/english/gavgb.html
 
 
-Genetic algorithms: 
+Genetic algorithms:
 	Where is the theory of process?
 
 	Are there phase traditions?  When and where?
@@ -461,4 +476,3 @@ Class 10: Seminars 2
 
 
 Bob French Marriage; Copycat and Metacat
-

@@ -48,7 +48,9 @@ Priming is top-down pressure driven from bottom-up exploration
 
 Example:  Price in economics, Inflation in economics
 
-!(Heatmap)[GIS-heatmap.png] 
+![Price](Price.svg)
+
+![Heatmap](GIS-heatmap.png)
 
 Example: Rankings
 

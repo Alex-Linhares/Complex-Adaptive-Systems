@@ -38,17 +38,42 @@ Ant trails:
 	What are the qualitative behaviors at each hierarchical level?
 
 
-2. Metacat
+2. Schelling's Models of Segregation
+
+Berlin wall; Apartheid; NOT THIS
+
+Rocinha; Germans versus Turkey;
+
+Simulation at:
+http://ccl.northwestern.edu/netlogo/models/Segregation
+
+Schelling's segregation model:
+	Where is the theory of process?
+
+	Are there phase traditions?  When and where?
+
+	What is work?  What is energy?
+
+	What is temperature?
+
+	What is emergent behavior?
+
+	What are the different hierarchical viewpoints of the system?
+
+	What are the qualitative behaviors at each hierarchical level?
+
+
+3. Metacat
 
 Priming is top-down pressure driven from bottom-up exploration
 
 
 
-3. Nobody stops for a minute to ponder the enormity of the bullshit we're surrounded by
+4. Nobody stops for a minute to ponder the enormity of the bullshit we're surrounded by
 
 Example:  Price in economics, Inflation in economics
 
-![Price](Price.svg)
+![Price](price.svg)
 
 ![Heatmap](GIS-heatmap.png)
 
@@ -263,7 +288,7 @@ AirBnB, Uber, zipcar, etc.
 
 Groupon →  November 2008!
 
-Eric Nichols <epnichols@gmail.com>
+Eric 
 
 
 12/5/08
@@ -372,31 +397,7 @@ Computational complexity of rankings
 
 
 
-2. Schelling's Models of Segregation
 
-Berlin wall; Apartheid; NOT THIS
-
-Rocinha; Germans versus Turkey;
-
-
-
-Simulation at:
-http://ccl.northwestern.edu/netlogo/models/Segregation
-
-Schelling's segregation model:
-	Where is the theory of process?
-
-	Are there phase traditions?  When and where?
-
-	What is work?  What is energy?
-
-	What is temperature?
-
-	What is emergent behavior?
-
-	What are the different hierarchical viewpoints of the system?
-
-	What are the qualitative behaviors at each hierarchical level?
 
 3. The most basic law of all sciences
 

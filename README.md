@@ -4,7 +4,12 @@ Linhares Complex Adaptive Systems Course
 
 OUTLINE
 
-Objective:
+Objective: for business/administration students to understand the philosophy, and some of the underlying mathematics, of the disciplines that are reshaping a number of disciplines.  
+
+Tangential objectives are: 
+  i. Learn the basics of using git and github;
+  i. Learn the basics of using jupyter notebooks (and python);
+  i. Provide a very very basic draft of the book on Bongard problems.
 
 
 Aluna doutorado:  "Qual é o papel do administrador?"

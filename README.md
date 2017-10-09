@@ -1,6 +1,10 @@
 # Complex-Adaptive-Systems
 
-Jogo de futebol: paralelismo maciço, cada variável influencia todas as outras, e a história de cada variável influencia o sistema 
+Jogo de futebol: paralelismo maciço, cada variável influencia todas as outras, e a história de cada variável influencia o sistema.
+
+Stop.  
+
+Look @ combinatorics.
 
 
 # OUTLINE

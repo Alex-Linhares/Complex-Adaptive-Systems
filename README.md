@@ -1,8 +1,10 @@
 # Complex-Adaptive-Systems
-Linhares Complex Adaptive Systems Course
+
+Jogo de futebol: paralelismo maciço, cada variável influencia todas as outras, e a história de cada variável influencia o sistema 
 
 
-OUTLINE
+# OUTLINE
+---
 
 Objective: for business/administration students to understand the philosophy, and some of the underlying mathematics, of the disciplines that are reshaping a number of disciplines.  
 
@@ -17,8 +19,10 @@ Aluna doutorado:  "Qual é o papel do administrador?"
 
 ...the moment in History
 
-Jogo de futebol: paralelismo maciço, cada variável influencia todas as outras, e a história de cada variável influencia o sistema
 
+Oh... also this:  will robots take your job?  
+
+dot.com
 
 =======================================
 Class 1: marblecake, also the game

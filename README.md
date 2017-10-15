@@ -77,6 +77,14 @@ Schelling's segregation model:
 	What are the qualitative behaviors at each hierarchical level?
 
 
+Some high-risk high-reward theses:
+
+    1. Measuring human combinatorial capacity.
+    1. Artificial intelligence: Bongard problems & combinatorial structures
+    1. The architecture of human biases
+    1. Jupyter and the modern data analyst. 
+    1. What would we love? (Physics of intl trade) 
+
 3. Metacat
 
 Priming is top-down pressure driven from bottom-up exploration

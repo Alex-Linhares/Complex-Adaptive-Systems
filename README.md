@@ -54,9 +54,11 @@ Ant trails:
 
 2. Schelling's Models of Segregation
 
-Berlin wall; Apartheid; NOT THIS
+Berlin wall; Apartheid; Israelis vs Arabs, etc.
+http://www.binpress.com/tutorial/introduction-to-agentbased-models-an-implementation-of-schelling-model-in-python/144
+https://github.com/adilmoujahid/schelling_simulations
 
-Rocinha; Germans versus Turkey;
+https://github.com/projectmesa/mesa/tree/master/examples/Schelling
 
 Simulation at:
 http://ccl.northwestern.edu/netlogo/models/Segregation
@@ -78,12 +80,11 @@ Schelling's segregation model:
 
 
 Some high-risk high-reward theses:
-
-    1. Measuring human combinatorial capacity.
-    1. Artificial intelligence: Bongard problems & combinatorial structures
-    1. The architecture of human biases
-    1. Jupyter and the modern data analyst. 
-    1. What would we love? (Physics of intl trade) 
+1. Measuring human combinatorial capacity.
+1. Artificial intelligence: Bongard problems & combinatorial structures
+1. The architecture of human biases
+1. Jupyter and the modern data analyst. 
+1. What would we love? (Physics of intl trade) 
 
 3. Metacat
 

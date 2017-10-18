@@ -24,34 +24,24 @@ Aluna doutorado:  "Qual é o papel do administrador?"
 ...the moment in History
 
 
-Oh... also this:  will robots take your job?  
+# Class 1: marblecake, also the game
 
-dot.com
-
-=======================================
-Class 1: marblecake, also the game
-
-
+---
 1. Ant Trails
 
 http://www.rennard.org/alife/english/antsgb.html
 
 Ant trails:
-	Where is the theory of process?
-
-	Are there phase traditions?  When and where?
-
-	What is work?  What is energy?
-
-	What is temperature?
-
-	What is emergent behavior?
-
-	What are the different hierarchical viewpoints of the system?
-
-	What are the qualitative behaviors at each hierarchical level?
+1. Where is the theory of process?
+1. Are there phase traditions?  When and where?
+1. What is work?  What is energy?
+1. What is temperature?
+1. What is emergent behavior?
+1. What are the different hierarchical viewpoints of the system?
+1. What are the qualitative behaviors at each hierarchical level?
 
 
+---
 2. Schelling's Models of Segregation
 
 Berlin wall; Apartheid; Israelis vs Arabs, etc.
@@ -63,22 +53,17 @@ https://github.com/projectmesa/mesa/tree/master/examples/Schelling
 Simulation at:
 http://ccl.northwestern.edu/netlogo/models/Segregation
 
+
 Schelling's segregation model:
-	Where is the theory of process?
+1. Where is the theory of process?
+1. Are there phase traditions?  When and where?
+1. What is work?  What is energy?
+1. What is temperature?
+1. What is emergent behavior?
+1. What are the different hierarchical viewpoints of the system?
+1. What are the qualitative behaviors at each hierarchical level?
 
-	Are there phase traditions?  When and where?
-
-	What is work?  What is energy?
-
-	What is temperature?
-
-	What is emergent behavior?
-
-	What are the different hierarchical viewpoints of the system?
-
-	What are the qualitative behaviors at each hierarchical level?
-
-
+---
 Some high-risk high-reward theses:
 1. Measuring human combinatorial capacity.
 1. Artificial intelligence: Bongard problems & combinatorial structures
@@ -86,13 +71,28 @@ Some high-risk high-reward theses:
 1. Jupyter and the modern data analyst. 
 1. What would we love? (Physics of intl trade) 
 
-3. Metacat
+---
+Nobody stops for a minute to ponder the enormity of the bullshit we're surrounded by...
+
+![System1-system2](http://upfrontanalytics.com/SITE/wp-content/uploads/2015/04/System-1-vs-System-2.jpg)
+
+[What about the sphex and system 0](https://www.youtube.com/watch?v=YNvi_j2z96w)?
+
+And what lies *inside* System 1 and System 2?  
+
+
+
+
+# Class 2: 
+
+Metacat
 
 Priming is top-down pressure driven from bottom-up exploration
 
 
 
-4. Nobody stops for a minute to ponder the enormity of the bullshit we're surrounded by
+
+Nobody stops for a minute to ponder the enormity of the bullshit we're surrounded by.
 
 Example:  Price in economics, Inflation in economics
 

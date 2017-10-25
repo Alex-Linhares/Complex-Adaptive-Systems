@@ -71,7 +71,16 @@ Some high-risk high-reward theses:
 1. Jupyter and the modern data analyst. 
 1. What would we love? (Physics of intl trade) 
 
+
+Open Work:  https://github.com/Alex-Linhares/applied-combinatorics
+
+
+
 ---
+# Class 2: AI, cogsci, FARG, Copycat & Metacat
+
+Priming is top-down pressure driven from bottom-up exploration 
+
 Nobody stops for a minute to ponder the enormity of the bullshit we're surrounded by...
 
 ![System1-system2](http://upfrontanalytics.com/SITE/wp-content/uploads/2015/04/System-1-vs-System-2.jpg)
@@ -83,11 +92,7 @@ And what lies *inside* System 1 and System 2?
 
 
 
-# Class 2: 
 
-Metacat
-
-Priming is top-down pressure driven from bottom-up exploration
 
 
 

@@ -73,7 +73,7 @@ Some high-risk high-reward theses:
 
 
 Open Work:  https://github.com/Alex-Linhares/applied-combinatorics
-
+http://mathbook.pugetsound.edu/gallery.html
 
 
 ---
